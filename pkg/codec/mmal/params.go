@@ -1,9 +1,9 @@
 package mmal
 
 import (
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/qnkhuat/mediadevices/pkg/codec"
+	"github.com/qnkhuat/mediadevices/pkg/io/video"
+	"github.com/qnkhuat/mediadevices/pkg/prop"
 )
 
 // Params stores libmmal specific encoding parameters.

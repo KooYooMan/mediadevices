@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/mediadevices/pkg/prop"
-	"github.com/pion/mediadevices/pkg/wave"
+	"github.com/qnkhuat/mediadevices/pkg/prop"
+	"github.com/qnkhuat/mediadevices/pkg/wave"
 )
 
 func TestDetectChanges(t *testing.T) {

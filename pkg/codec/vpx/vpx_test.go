@@ -6,10 +6,10 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/qnkhuat/mediadevices/pkg/codec"
+	"github.com/qnkhuat/mediadevices/pkg/frame"
+	"github.com/qnkhuat/mediadevices/pkg/io/video"
+	"github.com/qnkhuat/mediadevices/pkg/prop"
 )
 
 func TestImageSizeChange(t *testing.T) {

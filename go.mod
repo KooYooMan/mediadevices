@@ -1,4 +1,4 @@
-module github.com/pion/mediadevices
+module github.com/qnkhuat/mediadevices
 
 go 1.13
 
@@ -13,5 +13,3 @@ require (
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
-
-replace github.com/pion/mediadevices => github.com/qnkhuat/mediadevices v0.1.0
